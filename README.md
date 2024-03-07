@@ -16,15 +16,17 @@ YACC stands for Yet Another Compiler Compiler. It provides a tool to produce a p
 ## Design of the Compiler
 
 The compiler designed process the following constructs :-
--Simple C programs with declaration, assignment, printf, scanf and arithmetic operations.
--Simple for loops and if-else statements.
--Nested for loops and if-else statements.
--Simple datatypes like int, float and char.
+
+*Simple C programs with declaration, assignment, printf, scanf and arithmetic operations.
+*Simple for loops and if-else statements.
+*Nested for loops and if-else statements.
+*Simple datatypes like int, float and char.
+
 
 The following is considered while taking an input file for the compiler :-
--Body of all if-else statements must be enclosed within parenthesis'.
--Only simple datatypes are considered.
--Scope of all variables is same.
+*Body of all if-else statements must be enclosed within parenthesis'.
+*Only simple datatypes are considered.
+*Scope of all variables is same.
 
 ## Compiler Outputs for an input code
 
