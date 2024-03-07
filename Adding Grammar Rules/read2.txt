@@ -1,0 +1,3 @@
+Parser Function.
+Execute task2.ssh using the command sh task2.ssh 
+Output is shown in screenshots in the README.
