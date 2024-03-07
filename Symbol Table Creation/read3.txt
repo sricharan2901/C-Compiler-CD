@@ -1,0 +1,3 @@
+Symbol Table.
+To execute the file, run the command sh task3.ssh
+Output is displayed in the README.
