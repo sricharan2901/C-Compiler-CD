@@ -1,3 +1,2 @@
 INTERMEDIATE CODE GENERATION
 To run, execute the command sh task6.ssh
-Output is shown in screenshots in the README.
