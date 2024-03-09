@@ -1,3 +1,2 @@
 Parse Tree.
 To execute, run the command sh task4.ssh
-Output is displayed in screenshots.
