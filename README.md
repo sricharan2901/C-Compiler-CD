@@ -27,12 +27,6 @@ The following is considered while taking an input file for the compiler :-
 * Only simple datatypes are considered.
 * Scope of all variables is same.
 
-## Compiler Outputs for an input code
-
-Let us try to run the various stages of the compiler for the following input code
-
-https://github.com/sricharan2901/C-Compiler-CD/blob/5667efc7acfd52f235df2c0401d01b54ee2657bc/inp1.c
-
 
 
 
