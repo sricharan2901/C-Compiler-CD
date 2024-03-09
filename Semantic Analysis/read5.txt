@@ -1,3 +1,2 @@
 SEMANTIC ANALYSIS
 To run the code, execute the command sh task5.ssh
-Output is as shown in screenshots.
