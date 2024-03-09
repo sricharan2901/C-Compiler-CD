@@ -1,3 +1,2 @@
 For this stage,
-execute task1.ssh. 
-Output can be viewed in the screenshot uploaded.
+execute the command sh task1.ssh. 
